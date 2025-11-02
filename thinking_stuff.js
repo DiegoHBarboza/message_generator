@@ -1,7 +1,7 @@
 //^This function generates the random message Number
 
 function randomNumber () {
-    let number = Math.floor(Math.random() * 16)
+    let number = Math.floor(Math.random() * 17)
     return (number)
 }
 
@@ -54,6 +54,9 @@ function message (func) {
            break
         case 14:
            returnMessage = "Impatience comes from misunderstanding the law of the thinking stuff.";
+           break
+        case 15:
+           returnMessage = "The stuff is unlimited, operates in abundance, there is not need for competition."
            break
     }
     console.log(returnMessage)

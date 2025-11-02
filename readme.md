@@ -52,3 +52,4 @@
 |12         | It is a divine capacity to think what no one else is thinking.|
 |13         | No force, no proof & no observation. Just mantain calm and trust the process.|
 |14         | Impatience comes from misunderstanding the law of the thinking stuff.|
+|15         | The stuff is unlimited, operates in abundance, there is not need for competition.|
