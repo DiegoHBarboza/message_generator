@@ -5,7 +5,6 @@ function randomNumber () {
     return (number)
 }
 
-
 //^This is the function that will print the message
 function message (func) {
     let returnMessage = ''
@@ -59,8 +58,16 @@ function message (func) {
            returnMessage = "The stuff is unlimited, operates in abundance, there is not need for competition."
            break
     }
-    console.log(returnMessage)
-
+    return (returnMessage)
 };
 
-message(randomNumber())
+//^Variable calling the document ID in the HTML
+let out1 = document.getElementById("output1")
+
+//^Function calling the variable and printing it on the HTML page
+function fun1 () {
+    out1.textContent = `${message(randomNumber())}`
+}
+
+//^Button that triger the message generation
+btn1.addEventListener("click", fun1);
