@@ -58,3 +58,9 @@
 #### Note: 
 > I misread the requirements and created a single source of data, which is the generation of a random number, and each number is linked to a message.
 >
+
+### Using the Message Generator Live
+
+Click the link --> https://diegohbarboza.github.io/message_generator/ and just push the button.
+
+**Thank You**
