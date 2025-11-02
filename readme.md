@@ -54,7 +54,7 @@
 |14         | Impatience comes from misunderstanding the law of the thinking stuff.|
 |15         | The stuff is unlimited, operates in abundance, there is not need for competition.|
 
-```
-Note: 
-I misread the requirements and created a single source of data, which is the generation of a random number, and each number is linked to a message. 
-```
+
+#### Note: 
+> I misread the requirements and created a single source of data, which is the generation of a random number, and each number is linked to a message.
+>
